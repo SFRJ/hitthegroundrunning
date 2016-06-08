@@ -16,4 +16,4 @@ This project is an already configured gradle + springboot project to quickly sta
 </ul>    
 
 <b>How to use</b>
-
+<img src="docs/img1.png" alt="img1.png" width="700">
